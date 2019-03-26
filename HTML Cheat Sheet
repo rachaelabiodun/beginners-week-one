@@ -1,0 +1,12 @@
+When you want to add a link of a website:
+<a href="http://www.facebook.com">link to facebook</a>
+
+When you want an Ordered or Unordered List:
+<ol>
+  <li>Ordered lists (&lt;ol&gt;) - displays a numbered list</li>
+  <li>Unordered lists (&lt;ul&gt;) - displays a list of bullet points</li>
+</ol>
+
+When you want to add an image:
+<img src="./duck.jpg" alt="A local image" width="200px">
+<img src="http://jerrymahoney.files.wordpress.com/2012/06/kitten.jpg" alt="A picture of a cat." width="200px">
